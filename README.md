@@ -1,12 +1,44 @@
 # Привет!
 
-### Я <b>Николай Савин</b>, python разработчик.
+## Я <b>Николай Савин</b>, python разработчик.
 
-### Мой стек
+## 🛠️ Мой стек
 
-Windows, Bash, Python, Django Framework, SQL, SQLAlchemy, PostgreSQL, Git, REST API
+### Языки программирования
+- **Python**
 
-### Вот, что я умею
+### Веб-фреймворки и библиотеки
+- [Django](https://www.djangoproject.com/ )
+- [Flask](https://flask.palletsprojects.com/ )
+- [FastAPI](https://fastapi.tiangolo.com/ )
+- [Django REST Framework](https://www.django-rest-framework.org/ )
+- [SQLAlchemy](https://www.sqlalchemy.org/ ), ORM
+
+### Тестирование и HTTP-запросы
+- [Pytest](https://docs.pytest.org/ )
+- [Requests](https://docs.python-requests.org/ )
+
+### API и Интеграции
+- Разработка и использование **REST API**
+- Работа с внешними API
+
+### Базы данных
+- [PostgreSQL](https://www.postgresql.org/ )
+- [Redis](https://redis.io/ )
+
+### DevOps и Инфраструктура
+- [Docker](https://www.docker.com/ )
+- [Docker Compose](https://docs.docker.com/compose/ )
+- [Git](https://git-scm.com/ )
+- [GitHub](https://github.com/ )
+
+### Дополнительные инструменты
+- [Celery](http://www.celeryproject.org/) (асинхронные задачи)
+- IDE: **PyCharm**, **VS Code**
+
+
+
+## Вот, что я умею
 
 - VK API. [Командный проект по созданию приложения/бота для знакомств во ВКонтакте](https://github.com/SavinNik/Team_project_PD_108)
 
@@ -18,7 +50,7 @@ Windows, Bash, Python, Django Framework, SQL, SQLAlchemy, PostgreSQL, Git, REST 
 
 - Telegram-bot (postgreSQL, telebot). [Итоговая работа по курсу Базы данных](https://github.com/mikepro-alfamail-ru/sql-29-final)
 
-### Сертификаты Нетологии
+## Сертификаты Нетологии
 - [Основы Python](https://github.com/SavinNik/SavinNik/blob/main/%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20Python.pdf)
 - [GIT](https://github.com/SavinNik/SavinNik/blob/main/git.pdf)
 - [ООП и работа с API](https://github.com/SavinNik/SavinNik/blob/main/%D0%9E%D0%9E%D0%9F%20%D0%B8%20API.pdf)
